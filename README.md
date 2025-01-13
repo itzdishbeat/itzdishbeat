@@ -1,6 +1,6 @@
 # 🌸 Welcome 🌸  
 
-![Sakura Animation]([https://i.gifer.com/7PLX.gif](https://media1.tenor.com/m/FE6hkNPnq1UAAAAd/cherry-blossom-i-didnt-create-it.gif))  
+![Sakura Animation]([https://i.pinimg.com/originals/6a/ee/ea/6aeeea24e8fd4023a349e354eefa33ed.gif))  
 
 ---
 
