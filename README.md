@@ -1,16 +1,50 @@
-## Hi there 👋
+# 🌸 Welcome 🌸  
 
-<!--
-**itzdishbeat/itzdishbeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sakura Animation]([https://i.gifer.com/7PLX.gif](https://media1.tenor.com/m/FE6hkNPnq1UAAAAd/cherry-blossom-i-didnt-create-it.gif))  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Next_UI-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next UI"/>
+</div>
+
+---
+
+## 🚀 About Me  
+Hi! My name is Itzdishbeat, and I'm a developer with a passion for web development.    
+
+---
+
+## 💻 My Gear
+- **Desktop**: Mac Mini (M2, 16 GB RAM)  
+---
+
+## 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzdishbeat&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzdishbeat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdishbeat&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎵 My Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31imrl4cj5xzgkufurafdctn5ifq&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/31imrl4cj5xzgkufurafdctn5ifq)
+
+---
+
+## 📬 Contact Me
+<div align="center">
+  <a href="https://t.me/sowithout">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:kokokolya1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
