@@ -1,6 +1,6 @@
 # 🌸 Welcome 🌸  
 
-![Sakura Animation]([https://i.pinimg.com/originals/6a/ee/ea/6aeeea24e8fd4023a349e354eefa33ed.gif))  
+![Sakura Animation](https://i.pinimg.com/originals/6a/ee/ea/6aeeea24e8fd4023a349e354eefa33ed.gif))  
 
 ---
 
